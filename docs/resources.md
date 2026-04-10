@@ -8,7 +8,7 @@ share-description: "Neuroimaging tools, open-source code, and useful links from 
 
 ## Lab Resources
 
-- [PENLab GitHub](https://github.com/neuroPENlab) — Open-source code and analysis tools
+- [PENLab GitHub](https://github.com/neuropenlab) — Open-source code and analysis tools
 - [PubMed — López-Solà publications](https://pubmed.ncbi.nlm.nih.gov/?term=lopez-sola+m)
 
 ## Neuroimaging Tools

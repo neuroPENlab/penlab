@@ -20,7 +20,7 @@ Faculty of Medicine, University of Barcelona
 
 ## Social Media
 
-- **GitHub:** [neuroPENlab](https://github.com/neuroPENlab)
+- **GitHub:** [neuropenlab](https://github.com/neuropenlab)
 - **Twitter:** [@PENLab6](https://twitter.com/PENLab6)
 
 ---

@@ -35,4 +35,4 @@ Dr. López-Solà aims to develop a robust translational pain and affective neuro
 - **Email:** [mlopezsola@ub.edu](mailto:mlopezsola@ub.edu)
 - **Lab Email:** [penlabneuro@gmail.com](mailto:penlabneuro@gmail.com)
 - **Twitter:** [@PENLab6](https://twitter.com/PENLab6)
-- **GitHub:** [neuroPENlab](https://github.com/neuroPENlab)
+- **GitHub:** [neuropenlab](https://github.com/neuropenlab)

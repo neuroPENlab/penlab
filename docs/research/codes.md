@@ -9,7 +9,7 @@ share-title: "PENLab Codes & Tools"
 
 Visit our GitHub repository for analysis code, tools, and resources shared by the PENLab team:
 
-[**github.com/neuroPENlab**](https://github.com/neuroPENlab)
+[**github.com/neuropenlab**](https://github.com/neuropenlab)
 
 ---
 
