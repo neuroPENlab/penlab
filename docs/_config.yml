@@ -11,8 +11,8 @@ description: >-
   builds up the experience of bodily pain and emotional suffering in health and disease
   across the lifespan. Directed by Dr. Marina López-Solà at the University of Barcelona.
 
-url: "https://neuropenlab.github.io"
-baseurl: "/penlab"
+url: "https://penlab.ub.edu"
+baseurl: ""
 
 # --- SEO Settings ---
 lang: en
