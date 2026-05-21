@@ -60,15 +60,15 @@ share-description: "Meet the members of the Pain and Emotion Neuroscience Lab at
     <p>Marta Matamala-Gomez holds a PhD in Biomedicine from the University of Barcelona. She obtained three competitive postdoctoral fellowships under the programs: Maria Zambrano, Beatriu de Pinòs, and Marie Curie Individual Fellowship. Currently, she is a postdoctoral researcher specialized in sensory learning and multisensory integration processes in neurological and chronic pain conditions.</p>
     <p>Throughout her career she has used cutting-edge technologies such as Virtual Reality and Movement Sonification techniques, together with neurophysiological techniques such as EEG and TMS.</p>
     <div class="expertise-tags">
-      <span class="expertise-tag tag-methods">Virtual Reality</span>
-      <span class="expertise-tag tag-methods">Movement Sonification</span>
-      <span class="expertise-tag tag-neuroimaging">EEG</span>
-      <span class="expertise-tag tag-neuroimaging">TMS</span>
+      <span class="expertise-tag tag-clinical">Pain</span>
+      <span class="expertise-tag tag-clinical">Neurological Disorders</span>
       <span class="expertise-tag tag-neuroscience">Sensory Learning</span>
       <span class="expertise-tag tag-neuroscience">Multisensory Integration</span>
-      <span class="expertise-tag tag-clinical">Pain</span>
       <span class="expertise-tag tag-neuroscience">Body Representation</span>
-      <span class="expertise-tag tag-clinical">Neurological Disorders</span>
+      <span class="expertise-tag tag-neuroimaging">EEG</span>
+      <span class="expertise-tag tag-neuroimaging">TMS</span>
+      <span class="expertise-tag tag-methods">Virtual Reality</span>
+      <span class="expertise-tag tag-methods">Movement Sonification</span>
     </div>
   </div>
 </div>
@@ -83,12 +83,12 @@ share-description: "Meet the members of the Pain and Emotion Neuroscience Lab at
     <p class="person-subtitle"><strong>Postdoctoral Researcher</strong></p>
     <p>Saül brings extensive expertise in neuroimaging data analysis. During his PhD at the University of Barcelona, he developed a diffusion MRI method to minimize surgical damage. He has taught neuroscience and neuroimaging at UB, uses FSL, SPM, ANTs and MRtrix, and has collaborated with MELD and ENIGMA at IDIBAPS. He is part of SPRINT, focused on adolescent chronic pain neuroimaging signatures, and coordinates BCNspiracy, Sopa de Partículas, and social media for Pint of Science Spain.</p>
     <div class="expertise-tags">
-      <span class="expertise-tag tag-neuroimaging">Task-based fMRI</span>
-      <span class="expertise-tag tag-neuroimaging">Resting-state fMRI</span>
       <span class="expertise-tag tag-clinical">Pain</span>
       <span class="expertise-tag tag-neuroscience">Resilience</span>
       <span class="expertise-tag tag-neuroscience">Social Neuroscience</span>
       <span class="expertise-tag tag-neuroscience">Adolescence</span>
+      <span class="expertise-tag tag-neuroimaging">Task-based fMRI</span>
+      <span class="expertise-tag tag-neuroimaging">Resting-state fMRI</span>
     </div>
   </div>
 </div>
@@ -103,12 +103,12 @@ share-description: "Meet the members of the Pain and Emotion Neuroscience Lab at
     <p class="person-subtitle"><strong>Postdoctoral Researcher</strong></p>
     <p>Maria Suñol is a postdoctoral researcher investigating how neurobiological and psychosocial factors interact to shape resilience, compassion, and prosocial behavior. She has carried out research stays at Melbourne University (Australia) and Harvard University (USA). Her trajectory has been recognized through prestigious postdoctoral fellowships: the Juan de la Cierva and Margarita Salas at the start of her postdoctoral stage, and the Marie Skłodowska-Curie Action and the La Caixa Junior Leader in 2026.</p>
     <div class="expertise-tags">
-      <span class="expertise-tag tag-neuroimaging">Task-based fMRI</span>
-      <span class="expertise-tag tag-neuroimaging">Resting-state fMRI</span>
       <span class="expertise-tag tag-clinical">Pain</span>
       <span class="expertise-tag tag-neuroscience">Resilience</span>
       <span class="expertise-tag tag-neuroscience">Social Neuroscience</span>
       <span class="expertise-tag tag-neuroscience">Adolescence</span>
+      <span class="expertise-tag tag-neuroimaging">Task-based fMRI</span>
+      <span class="expertise-tag tag-neuroimaging">Resting-state fMRI</span>
     </div>
   </div>
 </div>
@@ -148,10 +148,10 @@ share-description: "Meet the members of the Pain and Emotion Neuroscience Lab at
     <p class="person-subtitle"><strong>PhD Student</strong></p>
     <p>Lidia is a psychologist graduate with a Master's Degree in Cognitive and Behavioural Neuroscience. Her research focuses on understanding the neural mechanisms linking pain perception and reward-related brain activity using various neuroimaging techniques. In addition to her work on resting-state functional connectivity, she is also involved in a project examining the effects of left dorsolateral prefrontal cortex (dlPFC) stimulation on pain perception from a reward processing perspective using TMS and EEG recordings.</p>
     <div class="expertise-tags">
-      <span class="expertise-tag tag-neuroimaging">Resting-state fMRI</span>
-      <span class="expertise-tag tag-neuroscience">Reward</span>
       <span class="expertise-tag tag-clinical">Pain</span>
       <span class="expertise-tag tag-clinical">Depression</span>
+      <span class="expertise-tag tag-neuroscience">Reward</span>
+      <span class="expertise-tag tag-neuroimaging">Resting-state fMRI</span>
       <span class="expertise-tag tag-neuroimaging">TMS</span>
       <span class="expertise-tag tag-neuroimaging">EEG</span>
     </div>
@@ -169,13 +169,13 @@ share-description: "Meet the members of the Pain and Emotion Neuroscience Lab at
     <p>Miguel holds a degree in Psychology and a master's in Neurosciences from the University of Barcelona. He received a competitive national studentship during his final undergraduate year to conduct research in the neuropsychology and neuroimaging of obesity.</p>
     <p>His current doctoral thesis focuses on the brain correlates of illness-related self-concept in adult depression and chronic pain across the lifespan, and its association with core affective symptoms. His research interests also include cognitive dysfunction in nociplastic pain conditions and mental disorders.</p>
     <div class="expertise-tags">
-      <span class="expertise-tag tag-neuroimaging">Task-based fMRI</span>
-      <span class="expertise-tag tag-neuroscience">Clinical Neuropsychology</span>
-      <span class="expertise-tag tag-neuroimaging">Neuroimaging</span>
-      <span class="expertise-tag tag-neuroscience">Self-referential Processing</span>
       <span class="expertise-tag tag-clinical">Juvenile Fibromyalgia</span>
       <span class="expertise-tag tag-clinical">Chronic Pain</span>
       <span class="expertise-tag tag-clinical">Mental Health</span>
+      <span class="expertise-tag tag-neuroscience">Clinical Neuropsychology</span>
+      <span class="expertise-tag tag-neuroscience">Self-referential Processing</span>
+      <span class="expertise-tag tag-neuroimaging">Task-based fMRI</span>
+      <span class="expertise-tag tag-neuroimaging">Neuroimaging</span>
     </div>
   </div>
 </div>
@@ -191,14 +191,14 @@ share-description: "Meet the members of the Pain and Emotion Neuroscience Lab at
     <p>Òscar graduated in Psychology and obtained a Master's in Neuroscience from the University of Barcelona, where he is currently a predoctoral researcher at PENLab.</p>
     <p>His PhD investigates the affective and sensorimotor mechanisms of nociplastic chronic pain. His work integrates fMRI and behavioral measures to characterize brain–behaviour relationships in chronic nociplastic pain populations using a precision neuroimaging approach. His research specifically focuses on motor control in juvenile fibromyalgia, combining fMRI with a handgrip strength task.</p>
     <div class="expertise-tags">
-      <span class="expertise-tag tag-neuroimaging">Task-based fMRI</span>
       <span class="expertise-tag tag-clinical">Nociplastic Pain</span>
       <span class="expertise-tag tag-clinical">Juvenile Fibromyalgia</span>
-      <span class="expertise-tag tag-neuroimaging">Neuroimaging</span>
       <span class="expertise-tag tag-neuroscience">Sensorimotor Mechanisms</span>
       <span class="expertise-tag tag-neuroscience">Affective Mechanisms</span>
       <span class="expertise-tag tag-neuroscience">Behavioral Neuroscience</span>
       <span class="expertise-tag tag-neuroscience">Hand-grip Strength</span>
+      <span class="expertise-tag tag-neuroimaging">Task-based fMRI</span>
+      <span class="expertise-tag tag-neuroimaging">Neuroimaging</span>
     </div>
   </div>
 </div>
@@ -243,10 +243,10 @@ share-description: "Meet the members of the Pain and Emotion Neuroscience Lab at
       <span class="expertise-tag tag-neuroimaging">Resting-state fMRI</span>
       <span class="expertise-tag tag-neuroimaging">Diffusion MRI</span>
       <span class="expertise-tag tag-neuroimaging">MRI Data Analysis</span>
-      <span class="expertise-tag tag-consortia">ENIGMA</span>
-      <span class="expertise-tag tag-consortia">MELD</span>
       <span class="expertise-tag tag-methods">Lesion Segmentation</span>
       <span class="expertise-tag tag-methods">Machine Learning</span>
+      <span class="expertise-tag tag-consortia">ENIGMA</span>
+      <span class="expertise-tag tag-consortia">MELD</span>
     </div>
   </div>
 </div>
