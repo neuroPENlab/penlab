@@ -15,6 +15,12 @@ We are delighted to announce that our PI, **Dr. Marina López-Solà**, has been 
 
 <img src="/assets/img/news/marina-serra-hunter-2026.jpg" alt="Dr. Marina López-Solà with fellow awardees at the Serra Húnter Talent Award 2026 ceremony" style="max-width:100%;border-radius:8px;margin-top:15px;" />
 
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin-top:20px;border-radius:8px;">
+  <iframe src="https://www.youtube-nocookie.com/embed/Yt-eMHonRMg" title="Acte de Reconeixement al Talent Serra Húnter 2026" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<p style="font-size:0.85em;color:#777;margin-top:8px;">Official ceremony video — <em>Acte de Reconeixement al Talent Serra Húnter 2026</em>, by the Catalan Department of Research and Universities.</p>
+
 ---
 
 ## 2023
